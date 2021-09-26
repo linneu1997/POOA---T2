@@ -1,3 +1,9 @@
+#Programação Orientada a Objetos Avançada - T2
+#Professor Delano M. Beder
+#Linneu Augusto Mendo Zanco - 769155
+#Julio Cesar dos Santos Oliveira Filho - 779800 
+#UFSCar - 26/09/2021
+
 import readhtml
 import extractinfo
 import csv
